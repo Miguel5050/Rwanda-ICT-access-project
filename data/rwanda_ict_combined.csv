@@ -1,0 +1,29 @@
+region,category,value
+Kigali City,mobile_phone,93.5
+Southern,mobile_phone,95.8
+Western,mobile_phone,98.5
+Northern,mobile_phone,96.4
+Eastern,mobile_phone,97.1
+Urban,mobile_phone,92.5
+Rural,mobile_phone,98.3
+Kigali City,modem,5.9
+Southern,modem,3.8
+Western,modem,1.2
+Northern,modem,3.6
+Eastern,modem,2.7
+Urban,modem,6.9
+Rural,modem,1.5
+Kigali City,wireless,0.6
+Southern,wireless,0.2
+Western,wireless,0.0
+Northern,wireless,0.0
+Eastern,wireless,0.2
+Urban,wireless,0.6
+Rural,wireless,0.1
+Kigali City,internet_access,39.1
+Southern,internet_access,11.7
+Western,internet_access,14.1
+Northern,internet_access,13.0
+Eastern,internet_access,14.4
+Urban,internet_access,38.1
+Rural,internet_access,12.2
